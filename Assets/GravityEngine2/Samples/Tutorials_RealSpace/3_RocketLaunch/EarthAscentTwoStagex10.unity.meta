@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2f166f05f2c842feb4cd627f2c793b1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 8.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_RealSpace/3_RocketLaunch/EarthAscentTwoStagex10.unity
+  uploadId: 752603
